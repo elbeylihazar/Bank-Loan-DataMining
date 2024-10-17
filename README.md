@@ -28,7 +28,7 @@ Best model accuracy: 80.83% using Naive Bayes.
 
 ## How to Use (with KNIME)
 ### 1-Clone the repository:
-git clone https://github.com/<elbeylihazar>/Bank-Loan-DataMining.git
+git clone https://github.com/elbeylihazar/Bank-Loan-DataMining.git
 ### 2-Open KNIME:
 Download and install KNIME.
 ### 3-Load the project files into KNIME:
